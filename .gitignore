@@ -1,0 +1,4 @@
+ffmpeg-master-latelest-win64-gpl-shared/ 
+*.dll
+*.exe
+$
